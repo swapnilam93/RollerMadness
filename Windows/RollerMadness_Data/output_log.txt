@@ -1,0 +1,74 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.185 seconds
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Swapnil\Game Dev\RolllerMadness\Windows\RollerMadness_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2608 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.174559 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.492717 ms (FindLiveObjects: 0.035692 ms CreateObjectMapping: 0.024615 ms MarkObjects: 0.420512 ms  DeleteObjects: 0.011487 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.300511 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.345025 ms (FindLiveObjects: 0.029128 ms CreateObjectMapping: 0.018871 ms MarkObjects: 0.285538 ms  DeleteObjects: 0.010666 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.099486 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.498461 ms (FindLiveObjects: 0.046358 ms CreateObjectMapping: 0.027076 ms MarkObjects: 0.411076 ms  DeleteObjects: 0.012717 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.172922 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.325333 ms (FindLiveObjects: 0.035692 ms CreateObjectMapping: 0.014769 ms MarkObjects: 0.265435 ms  DeleteObjects: 0.008205 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.895793 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.557948 ms (FindLiveObjects: 0.043897 ms CreateObjectMapping: 0.030358 ms MarkObjects: 0.468922 ms  DeleteObjects: 0.013538 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.093126 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.734358 ms (FindLiveObjects: 0.047999 ms CreateObjectMapping: 0.037333 ms MarkObjects: 0.629743 ms  DeleteObjects: 0.017641 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.165741 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.549332 ms (FindLiveObjects: 0.045128 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.457435 ms  DeleteObjects: 0.013948 ms)
+
